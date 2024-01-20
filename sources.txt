@@ -1,0 +1,7 @@
+SOURCES
+- coding ideas
+https://github.com/Avinash987/Coding
+- practice python 
+https://github.com/jwasham/practice-python
+- zero to hero in cs
+https://github.com/jwasham/coding-interview-university
